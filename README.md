@@ -47,3 +47,7 @@ docker run <yourname>/fullcycle
 ```bash
 docker run jhonasmutton/fullcycle
 ```
+
+## The image
+You can access the image directly by the Dockerhub:
+https://hub.docker.com/r/jhonasmutton/fullcycle
